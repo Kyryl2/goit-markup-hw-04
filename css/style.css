@@ -302,11 +302,13 @@ img {
   align-items: baseline;
 }
 .footer-right{
+  padding:0;
 
 }
 .footer-list{
   display: flex;
   gap: 16px;
+  padding: 0;
 
 }
 .footer-item{
@@ -339,6 +341,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #fff;
 margin-bottom: 16px;
+margin-top:0;
 
 }
 .logo-footer {
