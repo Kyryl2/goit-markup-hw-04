@@ -58,7 +58,7 @@ img {
   color: #404bbf;
   position: relative;
 }
-.menu-item:first-child::after{
+.menu-item:first-child .menu-item-link::after{
   content: "";
   position: absolute;
   border-radius: 2px;
