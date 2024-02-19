@@ -62,7 +62,7 @@ img {
   content: "";
   position: absolute;
   border-radius: 2px;
-  transition:250ms cubic-bezier(0.4, 0, 0.2, 1) ;
+  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1) ;
   left: 0;
   bottom: -1px;
   width: 100%;
@@ -110,7 +110,7 @@ display: block;
   letter-spacing: 0.02em;
   color: #434455;
   padding: 0px;
-  transition: : 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: :  color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .address-list-link:hover,
 .address-list-link:focus {
