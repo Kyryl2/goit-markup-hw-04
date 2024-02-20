@@ -161,6 +161,7 @@ img {
   background-repeat: no-repeat;
   background-size: cover;
   margin: 0 auto;
+  max-width: 1440px;
 }
 .section-button-title {
   font-family: "Roboto", sans-serif;
